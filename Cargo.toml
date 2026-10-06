@@ -1,0 +1,9 @@
+[package]
+name = "radix"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+dicom-dictionary-std = "0.10.0"
+dicom-object = "0.10.0"
+dicom-pixeldata = "0.10.0"
